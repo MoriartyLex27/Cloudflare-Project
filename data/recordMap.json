@@ -1,1 +1,2295 @@
-{}
+{
+  "block": {
+    "1f241143-6174-80b2-88d5-f6b9c2c64c77": {
+      "value": {
+        "id": "1f241143-6174-80b2-88d5-f6b9c2c64c77",
+        "version": 25,
+        "type": "page",
+        "properties": {
+          "title": [
+            [
+              "Shopify Business Blueprint "
+            ]
+          ]
+        },
+        "content": [
+          "1f241143-6174-8183-a157-d7a1da274b92",
+          "1f241143-6174-8124-bc88-fc718a255b89",
+          "1f241143-6174-81ef-8182-d52338303041",
+          "1f241143-6174-81bf-aaa5-c5d1b58744b2",
+          "1f241143-6174-816f-9d0a-e95cff0b7af0",
+          "1f241143-6174-81e2-85b5-d169154e71c3",
+          "1f241143-6174-8163-a951-c11237e72c9e",
+          "1f241143-6174-8136-b73b-cbf9b1edc2d8",
+          "1f241143-6174-812c-9eca-ff17091ddfe2",
+          "1f241143-6174-8163-8d4e-f6ee6e49bf5d"
+        ],
+        "format": {
+          "site_id": "1f341143-6174-80dd-a252-007918f6bae9",
+          "page_icon": "attachment:2db33030-85ec-42d4-8357-e81ad45f5027:ChatGPT_Image_14_Mei_2025_09.14.55.png",
+          "page_cover": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/1f88cc90-92fd-4ce4-bfcd-25daec2ffbbe/bcfc50cb-0044-4b0e-90a5-e1a367160dd0/Shopify_BBNotionTemplate_Cover_V2.jpg",
+          "page_full_width": true,
+          "copied_from_pointer": {
+            "id": "1f241143-6174-8000-b62d-d640e3a521af",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          },
+          "page_cover_position": 0.5,
+          "installation_imprint": {
+            "pointer": {
+              "id": "1f2d872b-594c-8105-a866-007bfa942acb",
+              "table": "marketplace_installation"
+            }
+          },
+          "page_section_visibility": {
+            "comments": "section_show",
+            "backlinks": "section_hide",
+            "margin_comments": "inline"
+          },
+          "social_media_image_preview_url": "attachment:7cc000a8-800f-4dca-ab88-ca5a27a24a9b:SocialMediaPreviewImage.png"
+        },
+        "permissions": [
+          {
+            "role": "editor",
+            "type": "user_permission",
+            "user_id": "d30e03f9-91c5-4bb3-a926-5d9c96eb7f3f"
+          },
+          {
+            "role": "reader",
+            "type": "public_permission",
+            "is_site": true,
+            "added_timestamp": 1747197651128,
+            "is_public_share_link": true
+          }
+        ],
+        "created_time": 1747143513393,
+        "last_edited_time": 1747199830159,
+        "parent_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37",
+        "parent_table": "space",
+        "alive": true,
+        "copied_from": "1f241143-6174-8000-b62d-d640e3a521af",
+        "file_ids": [
+          "2db33030-85ec-42d4-8357-e81ad45f5027",
+          "7cc000a8-800f-4dca-ab88-ca5a27a24a9b"
+        ],
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-8183-a157-d7a1da274b92": {
+      "value": {
+        "id": "1f241143-6174-8183-a157-d7a1da274b92",
+        "version": 1,
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "A guide for aspiring entrepreneurs",
+              [
+                [
+                  "h",
+                  "blue"
+                ]
+              ]
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "1f241143-6174-8198-b0b1-ee57c180c74e",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          }
+        },
+        "created_time": 1747143501149,
+        "last_edited_time": 1747143501149,
+        "parent_id": "1f241143-6174-80b2-88d5-f6b9c2c64c77",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-8198-b0b1-ee57c180c74e",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-8124-bc88-fc718a255b89": {
+      "value": {
+        "id": "1f241143-6174-8124-bc88-fc718a255b89",
+        "version": 1,
+        "type": "column_list",
+        "content": [
+          "1f241143-6174-81c6-8b7a-ec62093ab356",
+          "1f241143-6174-8139-98bb-fe4f00e41e3d",
+          "1f241143-6174-8120-9894-eb2d30e7f0f1"
+        ],
+        "format": {
+          "copied_from_pointer": {
+            "id": "1f241143-6174-8119-9a72-c0850fc7bc3f",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          }
+        },
+        "created_time": 1747143501148,
+        "last_edited_time": 1747143501148,
+        "parent_id": "1f241143-6174-80b2-88d5-f6b9c2c64c77",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-8119-9a72-c0850fc7bc3f",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-81ef-8182-d52338303041": {
+      "value": {
+        "id": "1f241143-6174-81ef-8182-d52338303041",
+        "version": 1,
+        "type": "text",
+        "format": {
+          "copied_from_pointer": {
+            "id": "1f241143-6174-81dd-b82e-cfce037b4f30",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          }
+        },
+        "created_time": 1747143501149,
+        "last_edited_time": 1747143501149,
+        "parent_id": "1f241143-6174-80b2-88d5-f6b9c2c64c77",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-81dd-b82e-cfce037b4f30",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-81bf-aaa5-c5d1b58744b2": {
+      "value": {
+        "id": "1f241143-6174-81bf-aaa5-c5d1b58744b2",
+        "version": 1,
+        "type": "divider",
+        "format": {
+          "copied_from_pointer": {
+            "id": "1f241143-6174-8156-92f4-c287905c567d",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          }
+        },
+        "created_time": 1747143501149,
+        "last_edited_time": 1747143501149,
+        "parent_id": "1f241143-6174-80b2-88d5-f6b9c2c64c77",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-8156-92f4-c287905c567d",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-816f-9d0a-e95cff0b7af0": {
+      "value": {
+        "id": "1f241143-6174-816f-9d0a-e95cff0b7af0",
+        "version": 1,
+        "type": "column_list",
+        "content": [
+          "1f241143-6174-81fa-b9f2-d90b32a1c9f1",
+          "1f241143-6174-81e3-8fd8-f4cd97069a0a"
+        ],
+        "format": {
+          "copied_from_pointer": {
+            "id": "1f241143-6174-81b7-bfbb-e21ba28a19e8",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          }
+        },
+        "created_time": 1747143501149,
+        "last_edited_time": 1747143501149,
+        "parent_id": "1f241143-6174-80b2-88d5-f6b9c2c64c77",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-81b7-bfbb-e21ba28a19e8",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-81e2-85b5-d169154e71c3": {
+      "value": {
+        "id": "1f241143-6174-81e2-85b5-d169154e71c3",
+        "version": 1,
+        "type": "text",
+        "format": {
+          "copied_from_pointer": {
+            "id": "1f241143-6174-8104-8070-cb8302cf6448",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          }
+        },
+        "created_time": 1747143501148,
+        "last_edited_time": 1747143501148,
+        "parent_id": "1f241143-6174-80b2-88d5-f6b9c2c64c77",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-8104-8070-cb8302cf6448",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-8163-a951-c11237e72c9e": {
+      "value": {
+        "id": "1f241143-6174-8163-a951-c11237e72c9e",
+        "version": 1,
+        "type": "divider",
+        "format": {
+          "copied_from_pointer": {
+            "id": "1f241143-6174-817e-80e8-c4ca35ffe5d3",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          }
+        },
+        "created_time": 1747143501149,
+        "last_edited_time": 1747143501149,
+        "parent_id": "1f241143-6174-80b2-88d5-f6b9c2c64c77",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-817e-80e8-c4ca35ffe5d3",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-8136-b73b-cbf9b1edc2d8": {
+      "value": {
+        "id": "1f241143-6174-8136-b73b-cbf9b1edc2d8",
+        "version": 1,
+        "type": "column_list",
+        "content": [
+          "1f241143-6174-81db-b44e-fbdea98a908e",
+          "1f241143-6174-815b-8d91-eee20e0f049b",
+          "1f241143-6174-81a2-8cac-cc4c6fae1fee"
+        ],
+        "format": {
+          "copied_from_pointer": {
+            "id": "1f241143-6174-8122-965d-d252c328ae6c",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          }
+        },
+        "created_time": 1747143501149,
+        "last_edited_time": 1747143501149,
+        "parent_id": "1f241143-6174-80b2-88d5-f6b9c2c64c77",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-8122-965d-d252c328ae6c",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-812c-9eca-ff17091ddfe2": {
+      "value": {
+        "id": "1f241143-6174-812c-9eca-ff17091ddfe2",
+        "version": 1,
+        "type": "image",
+        "properties": {
+          "size": [
+            [
+              "2.9KB"
+            ]
+          ],
+          "title": [
+            [
+              "Shopify.svg"
+            ]
+          ],
+          "source": [
+            [
+              "https://s3-us-west-2.amazonaws.com/public.notion-static.com/1f88cc90-92fd-4ce4-bfcd-25daec2ffbbe/76a2c614-8670-4166-96d6-c28865777c7e/Shopify.svg"
+            ]
+          ]
+        },
+        "format": {
+          "block_width": 192,
+          "block_height": 174,
+          "display_source": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/1f88cc90-92fd-4ce4-bfcd-25daec2ffbbe/76a2c614-8670-4166-96d6-c28865777c7e/Shopify.svg",
+          "block_full_width": false,
+          "block_page_width": false,
+          "block_aspect_ratio": 0.28618421052631576,
+          "copied_from_pointer": {
+            "id": "1f241143-6174-8138-ae55-f94d230848d2",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          },
+          "block_preserve_scale": true
+        },
+        "created_time": 1747143501149,
+        "last_edited_time": 1747143501149,
+        "parent_id": "1f241143-6174-80b2-88d5-f6b9c2c64c77",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-8138-ae55-f94d230848d2",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-8163-8d4e-f6ee6e49bf5d": {
+      "value": {
+        "id": "1f241143-6174-8163-8d4e-f6ee6e49bf5d",
+        "version": 1,
+        "type": "embed",
+        "properties": {
+          "source": [
+            [
+              "https://embed.notionlytics.com/wt/ZXlKd1lXZGxTV1FpT2lKbE1qUTFaRGhsTXpZM09HSTBZV1kyWWpZMU5XWXhaVFprT1dRd01UZG1OaUlzSW5kdmNtdHpjR0ZqWlZSeVlXTnJaWEpKWkNJNkltUnJiMHRCY21OTllqbG5VSE53WkZkc1lrRnpJbjA9"
+            ]
+          ]
+        },
+        "format": {
+          "block_width": 400,
+          "block_height": 320,
+          "display_source": "https://embed.notionlytics.com/wt/ZXlKd1lXZGxTV1FpT2lKbE1qUTFaRGhsTXpZM09HSTBZV1kyWWpZMU5XWXhaVFprT1dRd01UZG1OaUlzSW5kdmNtdHpjR0ZqWlZSeVlXTnJaWEpKWkNJNkltUnJiMHRCY21OTllqbG5VSE53WkZkc1lrRnpJbjA9",
+          "block_full_width": false,
+          "block_page_width": false,
+          "copied_from_pointer": {
+            "id": "1f241143-6174-8175-8728-c60588d36438",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          },
+          "block_preserve_scale": false
+        },
+        "created_time": 1747143501149,
+        "last_edited_time": 1747143501149,
+        "parent_id": "1f241143-6174-80b2-88d5-f6b9c2c64c77",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-8175-8728-c60588d36438",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-81c6-8b7a-ec62093ab356": {
+      "value": {
+        "id": "1f241143-6174-81c6-8b7a-ec62093ab356",
+        "version": 1,
+        "type": "column",
+        "content": [
+          "1f241143-6174-81a8-9b54-f8ed77861bd3",
+          "1f241143-6174-8196-ba9e-d25ae9a2cb33",
+          "1f241143-6174-812a-bf01-f3b29bbe8324",
+          "1f241143-6174-81dc-9dbc-c40a4729f9cc",
+          "1f241143-6174-8126-b65e-c4dfdba17261"
+        ],
+        "format": {
+          "column_ratio": 0.25925925925925924,
+          "copied_from_pointer": {
+            "id": "1f241143-6174-814f-a5e7-ed61ccb525d4",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          }
+        },
+        "created_time": 1747143501149,
+        "last_edited_time": 1747143501149,
+        "parent_id": "1f241143-6174-8124-bc88-fc718a255b89",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-814f-a5e7-ed61ccb525d4",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-8139-98bb-fe4f00e41e3d": {
+      "value": {
+        "id": "1f241143-6174-8139-98bb-fe4f00e41e3d",
+        "version": 1,
+        "type": "column",
+        "content": [
+          "1f241143-6174-81fe-9d19-dda036d05a74",
+          "1f241143-6174-81da-808f-e2bcca5ddb1e",
+          "1f241143-6174-8124-a937-d6fa2c842801",
+          "1f241143-6174-8180-afd0-dabb601688b1",
+          "1f241143-6174-8100-968a-fab52d47aa46",
+          "1f241143-6174-81a0-87f2-d2e6dad4d476",
+          "1f241143-6174-81b4-b52a-e8443d6da5c4",
+          "1f241143-6174-813a-9c33-d87009413011",
+          "1f241143-6174-81a4-aebe-f3fa5a1a7c78",
+          "1f241143-6174-8105-bbf6-f5923d86ab8a"
+        ],
+        "format": {
+          "column_ratio": 0.5,
+          "copied_from_pointer": {
+            "id": "1f241143-6174-812b-965b-fbc239cc7937",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          }
+        },
+        "created_time": 1747143501149,
+        "last_edited_time": 1747143501149,
+        "parent_id": "1f241143-6174-8124-bc88-fc718a255b89",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-812b-965b-fbc239cc7937",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-8120-9894-eb2d30e7f0f1": {
+      "value": {
+        "id": "1f241143-6174-8120-9894-eb2d30e7f0f1",
+        "version": 1,
+        "type": "column",
+        "content": [
+          "1f241143-6174-8111-873a-c3ceb9b10a7e",
+          "1f241143-6174-810c-a700-e5898e4108a3",
+          "1f241143-6174-81ca-a955-d9701f9fa318",
+          "1f241143-6174-81d1-99e2-c8c438de716e",
+          "1f241143-6174-8112-a273-e5765e56ef51",
+          "1f241143-6174-8140-b9fb-f1116d1ba36e",
+          "1f241143-6174-8146-9f5d-f00cc2121d6b"
+        ],
+        "format": {
+          "column_ratio": 0.24074074074074092,
+          "copied_from_pointer": {
+            "id": "1f241143-6174-8112-8a22-d7e3118ce63a",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          }
+        },
+        "created_time": 1747143501149,
+        "last_edited_time": 1747143501149,
+        "parent_id": "1f241143-6174-8124-bc88-fc718a255b89",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-8112-8a22-d7e3118ce63a",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-81a8-9b54-f8ed77861bd3": {
+      "value": {
+        "id": "1f241143-6174-81a8-9b54-f8ed77861bd3",
+        "version": 1,
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              ""
+            ]
+          ]
+        },
+        "format": {
+          "toggleable": false,
+          "copied_from_pointer": {
+            "id": "1f241143-6174-81c3-8baa-de727692ab5e",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          }
+        },
+        "created_time": 1747143501153,
+        "last_edited_time": 1747143501153,
+        "parent_id": "1f241143-6174-81c6-8b7a-ec62093ab356",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-81c3-8baa-de727692ab5e",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-8196-ba9e-d25ae9a2cb33": {
+      "value": {
+        "id": "1f241143-6174-8196-ba9e-d25ae9a2cb33",
+        "version": 1,
+        "type": "image",
+        "properties": {
+          "size": [
+            [
+              "176.9KB"
+            ]
+          ],
+          "title": [
+            [
+              "Shopify_BBNotionTemplate_Block_Home.jpg"
+            ]
+          ],
+          "source": [
+            [
+              "https://s3-us-west-2.amazonaws.com/public.notion-static.com/1f88cc90-92fd-4ce4-bfcd-25daec2ffbbe/375959a3-76c8-4c33-b5a4-dc4ccd6dced8/Shopify_BBNotionTemplate_Block_Home.jpg"
+            ]
+          ]
+        },
+        "format": {
+          "block_width": 1200,
+          "display_source": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/1f88cc90-92fd-4ce4-bfcd-25daec2ffbbe/375959a3-76c8-4c33-b5a4-dc4ccd6dced8/Shopify_BBNotionTemplate_Block_Home.jpg",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_aspect_ratio": 1,
+          "copied_from_pointer": {
+            "id": "1f241143-6174-8103-9f27-f544e48a2f24",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          },
+          "block_preserve_scale": true
+        },
+        "created_time": 1747143501153,
+        "last_edited_time": 1747143501153,
+        "parent_id": "1f241143-6174-81c6-8b7a-ec62093ab356",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-8103-9f27-f544e48a2f24",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-812a-bf01-f3b29bbe8324": {
+      "value": {
+        "id": "1f241143-6174-812a-bf01-f3b29bbe8324",
+        "version": 1,
+        "type": "text",
+        "format": {
+          "copied_from_pointer": {
+            "id": "1f241143-6174-81d1-a1d4-fff847b428f9",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          }
+        },
+        "created_time": 1747143501153,
+        "last_edited_time": 1747143501153,
+        "parent_id": "1f241143-6174-81c6-8b7a-ec62093ab356",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-81d1-a1d4-fff847b428f9",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-81dc-9dbc-c40a4729f9cc": {
+      "value": {
+        "id": "1f241143-6174-81dc-9dbc-c40a4729f9cc",
+        "version": 1,
+        "type": "callout",
+        "properties": {
+          "title": [
+            [
+              "Get started building your business with Shopify – ",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              "start your 14-day free Shopify trial today here.",
+              [
+                [
+                  "a",
+                  "https://www.shopify.com/?utm_source=notion&utm_medium=referral&utm_campaign=bb&utm_content=bae-bb-notion-template"
+                ]
+              ]
+            ]
+          ]
+        },
+        "format": {
+          "page_icon": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/1f88cc90-92fd-4ce4-bfcd-25daec2ffbbe/be3ff222-54c2-4a09-8f6b-e44c925802e5/Shopify_BBNotionTemplate_Icon_Shopify.png",
+          "block_color": "blue",
+          "copied_from_pointer": {
+            "id": "1f241143-6174-8169-a3f0-e71ca8422dd3",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          }
+        },
+        "created_time": 1747143501153,
+        "last_edited_time": 1747143501153,
+        "parent_id": "1f241143-6174-81c6-8b7a-ec62093ab356",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-8169-a3f0-e71ca8422dd3",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-8126-b65e-c4dfdba17261": {
+      "value": {
+        "id": "1f241143-6174-8126-b65e-c4dfdba17261",
+        "version": 1,
+        "type": "callout",
+        "properties": {
+          "title": [
+            [
+              "Get started building your operating system with Notion –",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              " "
+            ],
+            [
+              "startups may qualify for $1000 in Notion credit",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/pages/shopify-notion-startup-partnership"
+                ]
+              ]
+            ]
+          ]
+        },
+        "format": {
+          "page_icon": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3513fef4-5703-4730-9394-b01fe917a2b5/notion-logo.png",
+          "block_color": "blue",
+          "copied_from_pointer": {
+            "id": "1f241143-6174-81ce-accc-ea5a40b23546",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          }
+        },
+        "created_time": 1747143501153,
+        "last_edited_time": 1747143501153,
+        "parent_id": "1f241143-6174-81c6-8b7a-ec62093ab356",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-81ce-accc-ea5a40b23546",
+        "file_ids": [
+          "3513fef4-5703-4730-9394-b01fe917a2b5"
+        ],
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-81fe-9d19-dda036d05a74": {
+      "value": {
+        "id": "1f241143-6174-81fe-9d19-dda036d05a74",
+        "version": 1,
+        "type": "header",
+        "properties": {
+          "title": [
+            [
+              "Welcome to the Business Blueprint ",
+              [
+                [
+                  "b"
+                ],
+                [
+                  "h",
+                  "blue"
+                ]
+              ]
+            ],
+            [
+              "🎉",
+              [
+                [
+                  "h",
+                  "blue"
+                ]
+              ]
+            ]
+          ]
+        },
+        "format": {
+          "page_icon": "https://i.stack.imgur.com/Vkq2a.png",
+          "block_color": "blue",
+          "copied_from_pointer": {
+            "id": "1f241143-6174-81a6-89b9-d3bdc3f86481",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          }
+        },
+        "created_time": 1747143501152,
+        "last_edited_time": 1747143501152,
+        "parent_id": "1f241143-6174-8139-98bb-fe4f00e41e3d",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-81a6-89b9-d3bdc3f86481",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-81da-808f-e2bcca5ddb1e": {
+      "value": {
+        "id": "1f241143-6174-81da-808f-e2bcca5ddb1e",
+        "version": 1,
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "If you’re reading this, congrats. You’ve already taken the first step towards writing your entrepreneurship story. Whether you’ve been working on a business idea for a while or are just starting out, only you can determine where your story will go next. Wherever that may be, we’re excited to support you.",
+              [
+                [
+                  "b"
+                ],
+                [
+                  "h",
+                  "blue"
+                ]
+              ]
+            ]
+          ]
+        },
+        "format": {
+          "toggleable": true,
+          "copied_from_pointer": {
+            "id": "1f241143-6174-817c-bb35-fee1955f562d",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          }
+        },
+        "created_time": 1747143501152,
+        "last_edited_time": 1747143501152,
+        "parent_id": "1f241143-6174-8139-98bb-fe4f00e41e3d",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-817c-bb35-fee1955f562d",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-8124-a937-d6fa2c842801": {
+      "value": {
+        "id": "1f241143-6174-8124-a937-d6fa2c842801",
+        "version": 1,
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "Entrepreneurship is a thrilling journey, full of many highs and learnings. We know there’s no perfect manual for starting a business, and translating your ideas into action can often be the most challenging part. That’s where the Shopify Business Blueprint comes in!"
+            ]
+          ]
+        },
+        "format": {
+          "block_color": "blue",
+          "copied_from_pointer": {
+            "id": "1f241143-6174-81a0-a1db-c394275ba3db",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          }
+        },
+        "created_time": 1747143501152,
+        "last_edited_time": 1747143501152,
+        "parent_id": "1f241143-6174-8139-98bb-fe4f00e41e3d",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-81a0-a1db-c394275ba3db",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-8180-afd0-dabb601688b1": {
+      "value": {
+        "id": "1f241143-6174-8180-afd0-dabb601688b1",
+        "version": 1,
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "This Blueprint is designed to give you the tools, skills, and knowledge to start your own business. It’s filled with insights and exercises tailored to help early-stage entrepreneurs go from ideation to execution, and beyond."
+            ]
+          ]
+        },
+        "format": {
+          "block_color": "blue",
+          "copied_from_pointer": {
+            "id": "1f241143-6174-8166-83de-dc8ce0df45e1",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          }
+        },
+        "created_time": 1747143501152,
+        "last_edited_time": 1747143501152,
+        "parent_id": "1f241143-6174-8139-98bb-fe4f00e41e3d",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-8166-83de-dc8ce0df45e1",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-8100-968a-fab52d47aa46": {
+      "value": {
+        "id": "1f241143-6174-8100-968a-fab52d47aa46",
+        "version": 1,
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "You’ll find most sections take less than an hour to complete but feel free to take your time. Just like your business, it’s not meant to be built in a day! Work at your own pace and make sure to celebrate your milestones along the way (there will be many!)."
+            ]
+          ]
+        },
+        "format": {
+          "block_color": "blue",
+          "copied_from_pointer": {
+            "id": "1f241143-6174-81db-96bf-ef73de234095",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          }
+        },
+        "created_time": 1747143501153,
+        "last_edited_time": 1747143501153,
+        "parent_id": "1f241143-6174-8139-98bb-fe4f00e41e3d",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-81db-96bf-ef73de234095",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-81a0-87f2-d2e6dad4d476": {
+      "value": {
+        "id": "1f241143-6174-81a0-87f2-d2e6dad4d476",
+        "version": 1,
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "Entrepreneurship is a rewarding journey where you’ll have the opportunity to create something that’s truly yours. Pursuing your passions and building a business you love will be one of the most fulfilling chapters of your life."
+            ]
+          ]
+        },
+        "format": {
+          "block_color": "blue",
+          "copied_from_pointer": {
+            "id": "1f241143-6174-81af-806b-fcb2e72ddc43",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          }
+        },
+        "created_time": 1747143501153,
+        "last_edited_time": 1747143501153,
+        "parent_id": "1f241143-6174-8139-98bb-fe4f00e41e3d",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-81af-806b-fcb2e72ddc43",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-81b4-b52a-e8443d6da5c4": {
+      "value": {
+        "id": "1f241143-6174-81b4-b52a-e8443d6da5c4",
+        "version": 1,
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "We’re excited to help you write it.\nCheers to the next chapter; we can’t wait to see what you build."
+            ]
+          ]
+        },
+        "format": {
+          "block_color": "blue",
+          "copied_from_pointer": {
+            "id": "1f241143-6174-81b2-b568-d744c87ae125",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          }
+        },
+        "created_time": 1747143501153,
+        "last_edited_time": 1747143501153,
+        "parent_id": "1f241143-6174-8139-98bb-fe4f00e41e3d",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-81b2-b568-d744c87ae125",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-813a-9c33-d87009413011": {
+      "value": {
+        "id": "1f241143-6174-813a-9c33-d87009413011",
+        "version": 1,
+        "type": "text",
+        "format": {
+          "copied_from_pointer": {
+            "id": "1f241143-6174-8124-aaff-eb02b56ba391",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          }
+        },
+        "created_time": 1747143501152,
+        "last_edited_time": 1747143501152,
+        "parent_id": "1f241143-6174-8139-98bb-fe4f00e41e3d",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-8124-aaff-eb02b56ba391",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-81a4-aebe-f3fa5a1a7c78": {
+      "value": {
+        "id": "1f241143-6174-81a4-aebe-f3fa5a1a7c78",
+        "version": 1,
+        "type": "image",
+        "properties": {
+          "size": [
+            [
+              "78.1KB"
+            ]
+          ],
+          "title": [
+            [
+              "Untitled"
+            ]
+          ],
+          "source": [
+            [
+              "https://s3-us-west-2.amazonaws.com/public.notion-static.com/1f88cc90-92fd-4ce4-bfcd-25daec2ffbbe/f4e8de65-2c06-44e4-b79a-9989e42342f7/Untitled.png"
+            ]
+          ]
+        },
+        "format": {
+          "block_width": 192,
+          "display_source": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/1f88cc90-92fd-4ce4-bfcd-25daec2ffbbe/f4e8de65-2c06-44e4-b79a-9989e42342f7/Untitled.png",
+          "block_full_width": false,
+          "block_page_width": false,
+          "block_aspect_ratio": 0.39124579124579123,
+          "copied_from_pointer": {
+            "id": "1f241143-6174-81bf-840b-e6ff2acff5ee",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          },
+          "block_preserve_scale": true
+        },
+        "created_time": 1747143501153,
+        "last_edited_time": 1747143501153,
+        "parent_id": "1f241143-6174-8139-98bb-fe4f00e41e3d",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-81bf-840b-e6ff2acff5ee",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-8105-bbf6-f5923d86ab8a": {
+      "value": {
+        "id": "1f241143-6174-8105-bbf6-f5923d86ab8a",
+        "version": 1,
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "Harley Finkelstein, President, Shopify",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ]
+          ]
+        },
+        "format": {
+          "block_color": "blue",
+          "copied_from_pointer": {
+            "id": "1f241143-6174-8163-a337-f58e6a14f2d5",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          }
+        },
+        "created_time": 1747143501152,
+        "last_edited_time": 1747143501152,
+        "parent_id": "1f241143-6174-8139-98bb-fe4f00e41e3d",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-8163-a337-f58e6a14f2d5",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-8111-873a-c3ceb9b10a7e": {
+      "value": {
+        "id": "1f241143-6174-8111-873a-c3ceb9b10a7e",
+        "version": 1,
+        "type": "header",
+        "properties": {
+          "title": [
+            [
+              "Get Started 👇 "
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "1f241143-6174-81df-9976-c1a20f806150",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          }
+        },
+        "created_time": 1747143501150,
+        "last_edited_time": 1747143501150,
+        "parent_id": "1f241143-6174-8120-9894-eb2d30e7f0f1",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-81df-9976-c1a20f806150",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-810c-a700-e5898e4108a3": {
+      "value": {
+        "id": "1f241143-6174-810c-a700-e5898e4108a3",
+        "version": 1,
+        "type": "page",
+        "properties": {
+          "title": [
+            [
+              "1: Planning"
+            ]
+          ]
+        },
+        "content": [
+          "1f241143-6174-81d6-a1ad-f9d1a29f4616",
+          "1f241143-6174-818b-b03a-c9abe2649bb5",
+          "1f241143-6174-8178-bfd7-ea4e32a63071",
+          "1f241143-6174-81ee-8c1c-e4f58587648f",
+          "1f241143-6174-81e3-854b-e61ae1bd3f6c",
+          "1f241143-6174-81d8-a603-dc8f4306f33d",
+          "1f241143-6174-81d1-98b9-edf17ddf69c9",
+          "1f241143-6174-81af-b190-cdb8a30a4751",
+          "1f241143-6174-8152-8f03-e7c53d600c97",
+          "1f241143-6174-81f4-acb1-fd81bcb3ae72",
+          "1f241143-6174-8114-9e3e-f8d4699ad97c",
+          "1f241143-6174-811e-b08c-df17a1fd70ef",
+          "1f241143-6174-8190-af0e-d6f81f929ce5",
+          "1f241143-6174-81ff-93af-c5eaf2c7412f",
+          "1f241143-6174-8145-accd-dbdebeddb110",
+          "1f241143-6174-8149-99a7-f19fa088bb0a",
+          "1f241143-6174-81c4-a895-c0a0f7d40895",
+          "1f241143-6174-8129-8419-eba52e091438",
+          "1f241143-6174-81c3-ad51-cccd5bbeaea5",
+          "1f241143-6174-8175-bed5-d3590069d51a",
+          "1f241143-6174-810b-b5f9-fc504e97ccfe",
+          "1f241143-6174-812f-91d9-de35e289e060",
+          "1f241143-6174-81d3-892a-c90ab9b5e9f0"
+        ],
+        "format": {
+          "page_icon": "✏️",
+          "page_cover": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/1f88cc90-92fd-4ce4-bfcd-25daec2ffbbe/97bc8951-d88a-4004-a5d1-67c116c9a132/Shopify_BBNotionTemplate_Cover_V2.jpg",
+          "page_full_width": true,
+          "copied_from_pointer": {
+            "id": "1f241143-6174-8170-bc7c-ce2a0b48655e",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          },
+          "page_cover_position": 0.5,
+          "installation_imprint": {
+            "pointer": {
+              "id": "1f2d872b-594c-8105-a866-007bfa942acb",
+              "table": "marketplace_installation"
+            }
+          },
+          "page_section_visibility": {
+            "comments": "section_hide",
+            "backlinks": "section_hide",
+            "margin_comments": "minimal"
+          }
+        },
+        "created_time": 1747143501150,
+        "last_edited_time": 1747143501150,
+        "parent_id": "1f241143-6174-8120-9894-eb2d30e7f0f1",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-8170-bc7c-ce2a0b48655e",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-81ca-a955-d9701f9fa318": {
+      "value": {
+        "id": "1f241143-6174-81ca-a955-d9701f9fa318",
+        "version": 1,
+        "type": "page",
+        "properties": {
+          "title": [
+            [
+              "2: Framing"
+            ]
+          ]
+        },
+        "content": [
+          "1f241143-6174-8158-8929-cd8cd1eb93d5",
+          "1f241143-6174-810e-b2ed-e0aba07c85e8",
+          "1f241143-6174-8138-99cc-c4b7e22fe1ff",
+          "1f241143-6174-8154-8377-de642d33ca5f",
+          "1f241143-6174-816f-b156-dbeaaed8312e",
+          "1f241143-6174-811e-8bed-e3272a5026ee",
+          "1f241143-6174-810b-b5c5-e805af218481",
+          "1f241143-6174-810d-8119-f7c3e71b051d",
+          "1f241143-6174-8165-9bb8-c19045665c2f",
+          "1f241143-6174-81b6-a924-d2b78b0535f2",
+          "1f241143-6174-816c-9690-d69c13a2bc08"
+        ],
+        "format": {
+          "page_icon": "🪜",
+          "page_cover": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/1f88cc90-92fd-4ce4-bfcd-25daec2ffbbe/ed10658d-8036-4c17-8440-e8cc2eac6c20/Shopify_BBNotionTemplate_Cover_V2.jpg",
+          "page_full_width": true,
+          "copied_from_pointer": {
+            "id": "1f241143-6174-8138-8f19-fda2ac75dc55",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          },
+          "page_cover_position": 0.5,
+          "installation_imprint": {
+            "pointer": {
+              "id": "1f2d872b-594c-8105-a866-007bfa942acb",
+              "table": "marketplace_installation"
+            }
+          },
+          "page_section_visibility": {
+            "comments": "section_hide",
+            "backlinks": "section_hide",
+            "margin_comments": "minimal"
+          }
+        },
+        "created_time": 1747143501149,
+        "last_edited_time": 1747143501149,
+        "parent_id": "1f241143-6174-8120-9894-eb2d30e7f0f1",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-8138-8f19-fda2ac75dc55",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-81d1-99e2-c8c438de716e": {
+      "value": {
+        "id": "1f241143-6174-81d1-99e2-c8c438de716e",
+        "version": 1,
+        "type": "page",
+        "properties": {
+          "title": [
+            [
+              "3: Building"
+            ]
+          ]
+        },
+        "content": [
+          "1f241143-6174-817b-b1d3-e6572d28210d",
+          "1f241143-6174-8137-a610-fbd0692bf795",
+          "1f241143-6174-819b-903c-e1a5417b9470",
+          "1f241143-6174-8113-84bf-fbcd3df489e6",
+          "1f241143-6174-819a-80d4-db0b6c3105df",
+          "1f241143-6174-81d0-af6d-f722ca4ae720",
+          "1f241143-6174-818e-bfc3-ccd841f13539",
+          "1f241143-6174-8104-9dd0-fbe21cd93fae",
+          "1f241143-6174-81db-a46f-e4e523fdfbb0",
+          "1f241143-6174-81d5-8677-db97b231b934",
+          "1f241143-6174-81f1-add5-d0e7ca71fddf",
+          "1f241143-6174-81fb-bc51-d983cf3bedbc",
+          "1f241143-6174-81e6-b6a1-d437adefd648",
+          "1f241143-6174-8189-aeae-ff10f501a59f",
+          "1f241143-6174-812e-83b9-e3855fa0269f",
+          "1f241143-6174-8136-b9fc-eafad0d07d8f",
+          "1f241143-6174-81b0-a278-e770cf1455c2",
+          "1f241143-6174-819b-b711-f609077d99b0",
+          "1f241143-6174-8195-b2bf-f7176857fa86",
+          "1f241143-6174-8177-9237-c88d4680c2b8",
+          "1f241143-6174-81c7-81b7-e6e421a6c859",
+          "1f241143-6174-81d3-ad18-ea58b473a9c7",
+          "1f241143-6174-81d0-beff-e97436c306f7",
+          "1f241143-6174-818f-8345-f9df5766dc29",
+          "1f241143-6174-811c-9c09-cfe818043cfe",
+          "1f241143-6174-81ef-8a06-ffb6f61e5522",
+          "1f241143-6174-81b0-a5e4-eb4da47f5f79",
+          "1f241143-6174-8144-891a-f078d4e7ae69",
+          "1f241143-6174-8107-b3f3-ee452294013c",
+          "1f241143-6174-8108-83c7-e338ab5cd72c",
+          "1f241143-6174-813d-900f-ef1ea8b5ebe5",
+          "1f241143-6174-811e-baec-dc7c85d14826",
+          "1f241143-6174-8182-abb3-c9b0c8f6f6c1",
+          "1f241143-6174-81d3-bc02-d9315c73dacd",
+          "1f241143-6174-81e5-9a20-cdf4028bdcb7"
+        ],
+        "format": {
+          "page_icon": "🏗️",
+          "page_cover": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/1f88cc90-92fd-4ce4-bfcd-25daec2ffbbe/26b6d3fd-83ad-4be3-96c4-b0bf0d68b381/Shopify_BBNotionTemplate_Cover_V2.jpg",
+          "page_full_width": true,
+          "copied_from_pointer": {
+            "id": "1f241143-6174-8103-8b95-e829035e64e1",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          },
+          "page_cover_position": 0.5,
+          "installation_imprint": {
+            "pointer": {
+              "id": "1f2d872b-594c-8105-a866-007bfa942acb",
+              "table": "marketplace_installation"
+            }
+          },
+          "page_section_visibility": {
+            "comments": "section_hide",
+            "backlinks": "section_hide",
+            "margin_comments": "minimal"
+          }
+        },
+        "created_time": 1747143501149,
+        "last_edited_time": 1747143501149,
+        "parent_id": "1f241143-6174-8120-9894-eb2d30e7f0f1",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-8103-8b95-e829035e64e1",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-8112-a273-e5765e56ef51": {
+      "value": {
+        "id": "1f241143-6174-8112-a273-e5765e56ef51",
+        "version": 1,
+        "type": "page",
+        "properties": {
+          "title": [
+            [
+              "4: Growing"
+            ]
+          ]
+        },
+        "content": [
+          "1f241143-6174-8120-a911-e7196a9715d2",
+          "1f241143-6174-8111-902b-c40cce4b2fd5",
+          "1f241143-6174-81ea-88f9-ed9cb2584384",
+          "1f241143-6174-81a1-bb88-fe1ff723db04",
+          "1f241143-6174-811e-908b-d36ed9720984",
+          "1f241143-6174-8101-a28b-d8818c027757",
+          "1f241143-6174-81b1-8d20-de3d06a0f2fb",
+          "1f241143-6174-819f-9ffa-e12b71f70510",
+          "1f241143-6174-81cb-af1d-f366f56c58c8",
+          "1f241143-6174-8152-8d16-c2961b78a2a9",
+          "1f241143-6174-8174-8d12-c1ea2a1d61a8",
+          "1f241143-6174-813d-b338-d653c8f475db",
+          "1f241143-6174-81d8-b6c2-c60a530cc955",
+          "1f241143-6174-8115-825f-da62a3197c39",
+          "1f241143-6174-81db-9bb0-cedf6f2aa07a",
+          "1f241143-6174-810e-bb41-c7c2bd4f93b3",
+          "1f241143-6174-81bc-94ce-fd2501501792",
+          "1f241143-6174-812b-9c3c-c5af0815bbcf",
+          "1f241143-6174-81aa-b1bb-c181340ee150",
+          "1f241143-6174-810a-bba6-efa72e2c9061"
+        ],
+        "format": {
+          "page_icon": "🌳",
+          "page_cover": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/1f88cc90-92fd-4ce4-bfcd-25daec2ffbbe/6ee3d075-bf90-48f7-a033-6f0cfc6f3f57/Shopify_BBNotionTemplate_Cover_V2.jpg",
+          "page_full_width": true,
+          "copied_from_pointer": {
+            "id": "1f241143-6174-8142-a2ce-d1f195852d88",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          },
+          "page_cover_position": 0.5,
+          "installation_imprint": {
+            "pointer": {
+              "id": "1f2d872b-594c-8105-a866-007bfa942acb",
+              "table": "marketplace_installation"
+            }
+          },
+          "page_section_visibility": {
+            "comments": "section_hide",
+            "backlinks": "section_hide",
+            "margin_comments": "minimal"
+          }
+        },
+        "created_time": 1747143501150,
+        "last_edited_time": 1747143501150,
+        "parent_id": "1f241143-6174-8120-9894-eb2d30e7f0f1",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-8142-a2ce-d1f195852d88",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-8140-b9fb-f1116d1ba36e": {
+      "value": {
+        "id": "1f241143-6174-8140-b9fb-f1116d1ba36e",
+        "version": 1,
+        "type": "divider",
+        "format": {
+          "copied_from_pointer": {
+            "id": "1f241143-6174-81d6-b77f-fe4cbc70921a",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          }
+        },
+        "created_time": 1747143501150,
+        "last_edited_time": 1747143501150,
+        "parent_id": "1f241143-6174-8120-9894-eb2d30e7f0f1",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-81d6-b77f-fe4cbc70921a",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-8146-9f5d-f00cc2121d6b": {
+      "value": {
+        "id": "1f241143-6174-8146-9f5d-f00cc2121d6b",
+        "version": 1,
+        "type": "page",
+        "properties": {
+          "title": [
+            [
+              "About Shopify"
+            ]
+          ]
+        },
+        "content": [
+          "1f241143-6174-81f9-897c-ce87a14ca960",
+          "1f241143-6174-810a-9b19-f5186e12c21b",
+          "1f241143-6174-8117-9ddb-ee6d88631e94",
+          "1f241143-6174-81e8-8ec9-c02f2a694ef5",
+          "1f241143-6174-81e6-af1c-cf30e8742af1",
+          "1f241143-6174-8155-9e1f-d9eae3a67e37",
+          "1f241143-6174-8125-970f-f972e7da5575",
+          "1f241143-6174-81b6-ae80-fffb717a3ccf",
+          "1f241143-6174-81f2-8996-fed2e2528ff3",
+          "1f241143-6174-81d2-81ad-e37d5f491043",
+          "1f241143-6174-81ff-89d3-c65981396a24",
+          "1f241143-6174-818e-90b9-ce5197f5b1a3"
+        ],
+        "format": {
+          "page_icon": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/1f88cc90-92fd-4ce4-bfcd-25daec2ffbbe/8ba6a957-ec55-4b90-9e92-b5dba9e8eae5/Shopify_BBNotionTemplate_Icon_Shopify.png",
+          "page_cover": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/1f88cc90-92fd-4ce4-bfcd-25daec2ffbbe/578012e1-0bc7-4609-974f-e6be476e39c9/Shopify_BBNotionTemplate_Cover_V2.jpg",
+          "page_full_width": true,
+          "copied_from_pointer": {
+            "id": "1f241143-6174-8115-b420-dd22d921d442",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          },
+          "page_cover_position": 0.5,
+          "installation_imprint": {
+            "pointer": {
+              "id": "1f2d872b-594c-8105-a866-007bfa942acb",
+              "table": "marketplace_installation"
+            }
+          }
+        },
+        "created_time": 1747143501149,
+        "last_edited_time": 1747143501149,
+        "parent_id": "1f241143-6174-8120-9894-eb2d30e7f0f1",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-8115-b420-dd22d921d442",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-81fa-b9f2-d90b32a1c9f1": {
+      "value": {
+        "id": "1f241143-6174-81fa-b9f2-d90b32a1c9f1",
+        "version": 1,
+        "type": "column",
+        "content": [
+          "1f241143-6174-813c-b7a5-d7c2bcf58fe7",
+          "1f241143-6174-81c3-921c-d91fc265f31f",
+          "1f241143-6174-8186-8f6f-c1b32910ca68",
+          "1f241143-6174-81fa-89b5-f2ed2075aa5a"
+        ],
+        "format": {
+          "column_ratio": 0.6875,
+          "copied_from_pointer": {
+            "id": "1f241143-6174-811b-b201-e3a39f3d49ba",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          }
+        },
+        "created_time": 1747143501149,
+        "last_edited_time": 1747143501149,
+        "parent_id": "1f241143-6174-816f-9d0a-e95cff0b7af0",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-811b-b201-e3a39f3d49ba",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-81e3-8fd8-f4cd97069a0a": {
+      "value": {
+        "id": "1f241143-6174-81e3-8fd8-f4cd97069a0a",
+        "version": 1,
+        "type": "column",
+        "content": [
+          "1f241143-6174-8143-bfe0-e9d0fb4c80f7"
+        ],
+        "format": {
+          "column_ratio": 0.3125,
+          "copied_from_pointer": {
+            "id": "1f241143-6174-8186-8e30-e86341566b0f",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          }
+        },
+        "created_time": 1747143501149,
+        "last_edited_time": 1747143501149,
+        "parent_id": "1f241143-6174-816f-9d0a-e95cff0b7af0",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-8186-8e30-e86341566b0f",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-813c-b7a5-d7c2bcf58fe7": {
+      "value": {
+        "id": "1f241143-6174-813c-b7a5-d7c2bcf58fe7",
+        "version": 1,
+        "type": "callout",
+        "properties": {
+          "title": [
+            [
+              " "
+            ]
+          ]
+        },
+        "content": [
+          "1f241143-6174-81d8-9784-c71f3528022e",
+          "1f241143-6174-8199-a27a-c284548b7cbb",
+          "1f241143-6174-81d7-9b14-d4419d52f0e8",
+          "1f241143-6174-81b3-bfdb-c75574461d8a",
+          "1f241143-6174-81b2-a381-f12a18adf380",
+          "1f241143-6174-816e-893f-df7b9812fb18",
+          "1f241143-6174-8133-b921-f84716066dd9",
+          "1f241143-6174-81ed-8499-c547221f5c29"
+        ],
+        "format": {
+          "page_icon": "https://i.stack.imgur.com/Vkq2a.png",
+          "block_color": "blue_background",
+          "copied_from_pointer": {
+            "id": "1f241143-6174-813c-a374-f5baaad03eaf",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          }
+        },
+        "created_time": 1747143501152,
+        "last_edited_time": 1747143501152,
+        "parent_id": "1f241143-6174-81fa-b9f2-d90b32a1c9f1",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-813c-a374-f5baaad03eaf",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-81c3-921c-d91fc265f31f": {
+      "value": {
+        "id": "1f241143-6174-81c3-921c-d91fc265f31f",
+        "version": 1,
+        "type": "sub_sub_header",
+        "properties": {
+          "title": [
+            [
+              "Let’s Get Started!",
+              [
+                [
+                  "a",
+                  "/1f2411436174810ca700e5898e4108a3?pvs=25"
+                ],
+                [
+                  "h",
+                  "blue"
+                ]
+              ]
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "1f241143-6174-811a-af51-cdcd98567a92",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          }
+        },
+        "created_time": 1747143501152,
+        "last_edited_time": 1747143501152,
+        "parent_id": "1f241143-6174-81fa-b9f2-d90b32a1c9f1",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-811a-af51-cdcd98567a92",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-8186-8f6f-c1b32910ca68": {
+      "value": {
+        "id": "1f241143-6174-8186-8f6f-c1b32910ca68",
+        "version": 1,
+        "type": "callout",
+        "properties": {
+          "title": [
+            [
+              "First up is ",
+              [
+                [
+                  "h",
+                  "blue"
+                ]
+              ]
+            ],
+            [
+              "‣",
+              [
+                [
+                  "h",
+                  "blue"
+                ],
+                [
+                  "p",
+                  "1f241143-6174-810c-a700-e5898e4108a3",
+                  "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+                ]
+              ]
+            ],
+            [
+              " ",
+              [
+                [
+                  "h",
+                  "blue"
+                ]
+              ]
+            ]
+          ]
+        },
+        "format": {
+          "page_icon": "👉",
+          "block_color": "blue_background",
+          "copied_from_pointer": {
+            "id": "1f241143-6174-811c-b0c1-c46f67f18c38",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          }
+        },
+        "created_time": 1747143501152,
+        "last_edited_time": 1747143501152,
+        "parent_id": "1f241143-6174-81fa-b9f2-d90b32a1c9f1",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-811c-b0c1-c46f67f18c38",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-81fa-89b5-f2ed2075aa5a": {
+      "value": {
+        "id": "1f241143-6174-81fa-89b5-f2ed2075aa5a",
+        "version": 1,
+        "type": "text",
+        "format": {
+          "copied_from_pointer": {
+            "id": "1f241143-6174-8182-91b0-d0725c1447f8",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          }
+        },
+        "created_time": 1747143501152,
+        "last_edited_time": 1747143501152,
+        "parent_id": "1f241143-6174-81fa-b9f2-d90b32a1c9f1",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-8182-91b0-d0725c1447f8",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-8143-bfe0-e9d0fb4c80f7": {
+      "value": {
+        "id": "1f241143-6174-8143-bfe0-e9d0fb4c80f7",
+        "version": 1,
+        "type": "callout",
+        "properties": {
+          "title": [
+            [
+              "Bonus Content: ",
+              [
+                [
+                  "b"
+                ],
+                [
+                  "h",
+                  "orange"
+                ]
+              ]
+            ],
+            [
+              "Read this story on the Shopify Blog about an up-and-coming founder getting their business started and redefining “entrepreneur.”\n",
+              [
+                [
+                  "h",
+                  "orange"
+                ]
+              ]
+            ]
+          ]
+        },
+        "content": [
+          "1f241143-6174-819c-8476-f0029f645a66",
+          "1f241143-6174-81b0-86f4-f1dd254a8c11",
+          "1f241143-6174-8142-8d99-cfcca682e93a"
+        ],
+        "format": {
+          "page_icon": "🌐",
+          "block_color": "orange_background",
+          "copied_from_pointer": {
+            "id": "1f241143-6174-816a-aa07-dd4b479b3e21",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          }
+        },
+        "created_time": 1747143501154,
+        "last_edited_time": 1747143501154,
+        "parent_id": "1f241143-6174-81e3-8fd8-f4cd97069a0a",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-816a-aa07-dd4b479b3e21",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-81d8-9784-c71f3528022e": {
+      "value": {
+        "id": "1f241143-6174-81d8-9784-c71f3528022e",
+        "version": 1,
+        "type": "header",
+        "properties": {
+          "title": [
+            [
+              "Redefining “Entrepreneur’’",
+              [
+                [
+                  "b"
+                ],
+                [
+                  "h",
+                  "blue"
+                ]
+              ]
+            ]
+          ]
+        },
+        "format": {
+          "toggleable": false,
+          "copied_from_pointer": {
+            "id": "1f241143-6174-817c-a447-ef4ca8fad2c1",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          }
+        },
+        "created_time": 1747143501156,
+        "last_edited_time": 1747143501156,
+        "parent_id": "1f241143-6174-813c-b7a5-d7c2bcf58fe7",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-817c-a447-ef4ca8fad2c1",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-8199-a27a-c284548b7cbb": {
+      "value": {
+        "id": "1f241143-6174-8199-a27a-c284548b7cbb",
+        "version": 1,
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "Our understanding of the word “entrepreneur” is constantly changing. Over the last few generations, that term has evolved to no longer be limited to a particular group or circumstances. "
+            ]
+          ]
+        },
+        "format": {
+          "block_color": "blue",
+          "copied_from_pointer": {
+            "id": "1f241143-6174-8144-92d4-cd845f2e64ce",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          }
+        },
+        "created_time": 1747143501156,
+        "last_edited_time": 1747143501156,
+        "parent_id": "1f241143-6174-813c-b7a5-d7c2bcf58fe7",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-8144-92d4-cd845f2e64ce",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-81d7-9b14-d4419d52f0e8": {
+      "value": {
+        "id": "1f241143-6174-81d7-9b14-d4419d52f0e8",
+        "version": 1,
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "Modern entrepreneurs are redefining the word to include anyone who is reaching for independence and working for themselves. The category has broadened to include all kinds of artists, innovators, and creators. Some entrepreneurs provide services or sell intangible assets. Others sell their handmade products, like candles or jewelry. Some curate products to sell in subscription boxes or retail stores. Others grow audiences online by making content and selling courses or merchandise. And still others dream up new categories we haven’t even heard of yet. "
+            ]
+          ]
+        },
+        "format": {
+          "block_color": "blue",
+          "copied_from_pointer": {
+            "id": "1f241143-6174-811d-9df0-fc5a51455b1a",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          }
+        },
+        "created_time": 1747143501156,
+        "last_edited_time": 1747143501156,
+        "parent_id": "1f241143-6174-813c-b7a5-d7c2bcf58fe7",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-811d-9df0-fc5a51455b1a",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-81b3-bfdb-c75574461d8a": {
+      "value": {
+        "id": "1f241143-6174-81b3-bfdb-c75574461d8a",
+        "version": 1,
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "The future of entrepreneurship contains more diverse voices, more varieties of businesses, and endless opportunities. While entrepreneurs may differ in their offerings, there are two things all of them have in common:"
+            ]
+          ]
+        },
+        "format": {
+          "block_color": "blue",
+          "copied_from_pointer": {
+            "id": "1f241143-6174-8106-85af-d855b8e15c68",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          }
+        },
+        "created_time": 1747143501156,
+        "last_edited_time": 1747143501156,
+        "parent_id": "1f241143-6174-813c-b7a5-d7c2bcf58fe7",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-8106-85af-d855b8e15c68",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-81b2-a381-f12a18adf380": {
+      "value": {
+        "id": "1f241143-6174-81b2-a381-f12a18adf380",
+        "version": 1,
+        "type": "numbered_list",
+        "properties": {
+          "title": [
+            [
+              "Ambition"
+            ]
+          ]
+        },
+        "format": {
+          "block_color": "blue",
+          "copied_from_pointer": {
+            "id": "1f241143-6174-81e4-bd42-d1ebe44403aa",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          }
+        },
+        "created_time": 1747143501157,
+        "last_edited_time": 1747143501157,
+        "parent_id": "1f241143-6174-813c-b7a5-d7c2bcf58fe7",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-81e4-bd42-d1ebe44403aa",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-816e-893f-df7b9812fb18": {
+      "value": {
+        "id": "1f241143-6174-816e-893f-df7b9812fb18",
+        "version": 1,
+        "type": "numbered_list",
+        "properties": {
+          "title": [
+            [
+              "Momentum"
+            ]
+          ]
+        },
+        "format": {
+          "block_color": "blue",
+          "list_start_index": 2,
+          "copied_from_pointer": {
+            "id": "1f241143-6174-817f-a349-fd3fdbc67c38",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          }
+        },
+        "created_time": 1747143501156,
+        "last_edited_time": 1747143501156,
+        "parent_id": "1f241143-6174-813c-b7a5-d7c2bcf58fe7",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-817f-a349-fd3fdbc67c38",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-8133-b921-f84716066dd9": {
+      "value": {
+        "id": "1f241143-6174-8133-b921-f84716066dd9",
+        "version": 1,
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "We created The Business Blueprint to help you get started, to combine your ambition and momentum and transform them into a business of your own. The Blueprint is designed to give you a high-level overview of where and how to start a business. By the end of the Blueprint, you’ll have the tools and structure you need to continue pushing your business forward. ",
+              [
+                [
+                  "h",
+                  "blue"
+                ]
+              ]
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "1f241143-6174-8183-8f60-f420726317ea",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          }
+        },
+        "created_time": 1747143501157,
+        "last_edited_time": 1747143501157,
+        "parent_id": "1f241143-6174-813c-b7a5-d7c2bcf58fe7",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-8183-8f60-f420726317ea",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-81ed-8499-c547221f5c29": {
+      "value": {
+        "id": "1f241143-6174-81ed-8499-c547221f5c29",
+        "version": 1,
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "Next up: creating your business.",
+              [
+                [
+                  "h",
+                  "blue"
+                ]
+              ]
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "1f241143-6174-81fa-ac33-f9368f8c9042",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          }
+        },
+        "created_time": 1747143501157,
+        "last_edited_time": 1747143501157,
+        "parent_id": "1f241143-6174-813c-b7a5-d7c2bcf58fe7",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-81fa-ac33-f9368f8c9042",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-819c-8476-f0029f645a66": {
+      "value": {
+        "id": "1f241143-6174-819c-8476-f0029f645a66",
+        "version": 1,
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "Empowering Phenomenal Women Everywhere, One Shirt at a Time",
+              [
+                [
+                  "a",
+                  "https://www.shopify.com/blog/empowering-phenomenal-women"
+                ],
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              "\n"
+            ]
+          ]
+        },
+        "format": {
+          "block_color": "orange",
+          "copied_from_pointer": {
+            "id": "1f241143-6174-81e3-8602-cdd87f66200e",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          }
+        },
+        "created_time": 1747143501157,
+        "last_edited_time": 1747143501157,
+        "parent_id": "1f241143-6174-8143-bfe0-e9d0fb4c80f7",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-81e3-8602-cdd87f66200e",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-81b0-86f4-f1dd254a8c11": {
+      "value": {
+        "id": "1f241143-6174-81b0-86f4-f1dd254a8c11",
+        "version": 1,
+        "type": "image",
+        "properties": {
+          "size": [
+            [
+              "742.2KB"
+            ]
+          ],
+          "title": [
+            [
+              "Untitled"
+            ]
+          ],
+          "source": [
+            [
+              "https://s3-us-west-2.amazonaws.com/public.notion-static.com/1f88cc90-92fd-4ce4-bfcd-25daec2ffbbe/2e89e9ea-124b-4956-bd08-b4710bda50da/Untitled.png"
+            ]
+          ]
+        },
+        "format": {
+          "block_width": 624,
+          "display_source": "https://s3-us-west-2.amazonaws.com/public.notion-static.com/1f88cc90-92fd-4ce4-bfcd-25daec2ffbbe/2e89e9ea-124b-4956-bd08-b4710bda50da/Untitled.png",
+          "block_full_width": false,
+          "block_page_width": false,
+          "block_aspect_ratio": 0.5248917748917749,
+          "copied_from_pointer": {
+            "id": "1f241143-6174-81d4-8cca-c439306e7447",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          },
+          "block_preserve_scale": true
+        },
+        "created_time": 1747143501157,
+        "last_edited_time": 1747143501157,
+        "parent_id": "1f241143-6174-8143-bfe0-e9d0fb4c80f7",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-81d4-8cca-c439306e7447",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-8142-8d99-cfcca682e93a": {
+      "value": {
+        "id": "1f241143-6174-8142-8d99-cfcca682e93a",
+        "version": 1,
+        "type": "text",
+        "format": {
+          "copied_from_pointer": {
+            "id": "1f241143-6174-8168-a1b3-d07e09194a97",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          }
+        },
+        "created_time": 1747143501157,
+        "last_edited_time": 1747143501157,
+        "parent_id": "1f241143-6174-8143-bfe0-e9d0fb4c80f7",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-8168-a1b3-d07e09194a97",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-81db-b44e-fbdea98a908e": {
+      "value": {
+        "id": "1f241143-6174-81db-b44e-fbdea98a908e",
+        "version": 1,
+        "type": "column",
+        "content": [
+          "1f241143-6174-81f4-80a9-c31099c63950"
+        ],
+        "format": {
+          "column_ratio": 0.29166666666666663,
+          "copied_from_pointer": {
+            "id": "1f241143-6174-815e-b31f-de18a6853b23",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          }
+        },
+        "created_time": 1747143501149,
+        "last_edited_time": 1747143501149,
+        "parent_id": "1f241143-6174-8136-b73b-cbf9b1edc2d8",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-815e-b31f-de18a6853b23",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-815b-8d91-eee20e0f049b": {
+      "value": {
+        "id": "1f241143-6174-815b-8d91-eee20e0f049b",
+        "version": 1,
+        "type": "column",
+        "content": [
+          "1f241143-6174-81db-b0bc-ff7c4197820c",
+          "1f241143-6174-81cb-bd91-f66396ce1fcf",
+          "1f241143-6174-813a-82fa-fe534435c536",
+          "1f241143-6174-81a3-a1ca-ff8104e20a82",
+          "1f241143-6174-8158-b148-e04317d09f68"
+        ],
+        "format": {
+          "column_ratio": 0.41666666666666663,
+          "copied_from_pointer": {
+            "id": "1f241143-6174-81a5-b999-c52d9f9f8597",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          }
+        },
+        "created_time": 1747143501149,
+        "last_edited_time": 1747143501149,
+        "parent_id": "1f241143-6174-8136-b73b-cbf9b1edc2d8",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-81a5-b999-c52d9f9f8597",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-81a2-8cac-cc4c6fae1fee": {
+      "value": {
+        "id": "1f241143-6174-81a2-8cac-cc4c6fae1fee",
+        "version": 1,
+        "type": "column",
+        "content": [
+          "1f241143-6174-81af-8268-c6637c2bdf21"
+        ],
+        "format": {
+          "column_ratio": 0.29166666666666685,
+          "copied_from_pointer": {
+            "id": "1f241143-6174-8132-ba7c-cf8e57106a42",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          }
+        },
+        "created_time": 1747143501149,
+        "last_edited_time": 1747143501149,
+        "parent_id": "1f241143-6174-8136-b73b-cbf9b1edc2d8",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-8132-ba7c-cf8e57106a42",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-81f4-80a9-c31099c63950": {
+      "value": {
+        "id": "1f241143-6174-81f4-80a9-c31099c63950",
+        "version": 1,
+        "type": "text",
+        "format": {
+          "copied_from_pointer": {
+            "id": "1f241143-6174-8175-bdb5-c4d8ab3f479b",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          }
+        },
+        "created_time": 1747143501153,
+        "last_edited_time": 1747143501153,
+        "parent_id": "1f241143-6174-81db-b44e-fbdea98a908e",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-8175-bdb5-c4d8ab3f479b",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-81db-b0bc-ff7c4197820c": {
+      "value": {
+        "id": "1f241143-6174-81db-b0bc-ff7c4197820c",
+        "version": 1,
+        "type": "header",
+        "properties": {
+          "title": [
+            [
+              "Start your business journey with Shopify"
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "1f241143-6174-812b-a27e-f8585237bacb",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          }
+        },
+        "created_time": 1747143501154,
+        "last_edited_time": 1747143501154,
+        "parent_id": "1f241143-6174-815b-8d91-eee20e0f049b",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-812b-a27e-f8585237bacb",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-81cb-bd91-f66396ce1fcf": {
+      "value": {
+        "id": "1f241143-6174-81cb-bd91-f66396ce1fcf",
+        "version": 1,
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "Try Shopify for free, and explore all the tools and services you need to start, run, and grow your business."
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "1f241143-6174-81bf-aaf1-c932a291ae3a",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          }
+        },
+        "created_time": 1747143501154,
+        "last_edited_time": 1747143501154,
+        "parent_id": "1f241143-6174-815b-8d91-eee20e0f049b",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-81bf-aaf1-c932a291ae3a",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-813a-82fa-fe534435c536": {
+      "value": {
+        "id": "1f241143-6174-813a-82fa-fe534435c536",
+        "version": 1,
+        "type": "sub_sub_header",
+        "properties": {
+          "title": [
+            [
+              "Start 14-Day Free Trial",
+              [
+                [
+                  "a",
+                  "https://www.shopify.com/?utm_source=notion&utm_medium=referral&utm_campaign=bb&utm_content=bae-bb-notion-template"
+                ]
+              ]
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "1f241143-6174-81ee-b858-f5202162f7e7",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          }
+        },
+        "created_time": 1747143501154,
+        "last_edited_time": 1747143501154,
+        "parent_id": "1f241143-6174-815b-8d91-eee20e0f049b",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-81ee-b858-f5202162f7e7",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-81a3-a1ca-ff8104e20a82": {
+      "value": {
+        "id": "1f241143-6174-81a3-a1ca-ff8104e20a82",
+        "version": 1,
+        "type": "text",
+        "format": {
+          "copied_from_pointer": {
+            "id": "1f241143-6174-81d6-b4c3-e75998cacc4b",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          }
+        },
+        "created_time": 1747143501154,
+        "last_edited_time": 1747143501154,
+        "parent_id": "1f241143-6174-815b-8d91-eee20e0f049b",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-81d6-b4c3-e75998cacc4b",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-8158-b148-e04317d09f68": {
+      "value": {
+        "id": "1f241143-6174-8158-b148-e04317d09f68",
+        "version": 1,
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "Get started building your operating system with Notion - "
+            ],
+            [
+              "startups may qualify for $1000 in Notion credit",
+              [
+                [
+                  "a",
+                  "https://www.notion.so/pages/shopify-notion-startup-partnership"
+                ]
+              ]
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "1f241143-6174-8114-9764-faf5e7e93d63",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          }
+        },
+        "created_time": 1747143501154,
+        "last_edited_time": 1747143501154,
+        "parent_id": "1f241143-6174-815b-8d91-eee20e0f049b",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-8114-9764-faf5e7e93d63",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    },
+    "1f241143-6174-81af-8268-c6637c2bdf21": {
+      "value": {
+        "id": "1f241143-6174-81af-8268-c6637c2bdf21",
+        "version": 1,
+        "type": "text",
+        "format": {
+          "copied_from_pointer": {
+            "id": "1f241143-6174-81cd-abe9-edb2d59d1c87",
+            "table": "block",
+            "spaceId": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+          }
+        },
+        "created_time": 1747143501153,
+        "last_edited_time": 1747143501153,
+        "parent_id": "1f241143-6174-81a2-8cac-cc4c6fae1fee",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1f241143-6174-81cd-abe9-edb2d59d1c87",
+        "space_id": "bebf3c9e-a66a-4248-b7c4-02fbea959a37"
+      },
+      "role": "reader"
+    }
+  },
+  "collection": {},
+  "collection_view": {},
+  "notion_user": {},
+  "collection_query": {},
+  "signed_urls": {}
+}
